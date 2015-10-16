@@ -1,6 +1,6 @@
 name: AcornStudio
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.3552716465201229
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.04626495228148997
